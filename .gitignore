@@ -1,0 +1,9 @@
+
+*.db
+*.vsidx
+*.config
+.vs/portfolio/v17/.wsuo
+*.sqlite
+.vs/VSWorkspaceState.json
+.vs/portfolio/v17/DocumentLayout.json
+.vs/portfolio/v17/DocumentLayout.backup.json
